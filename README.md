@@ -12,7 +12,6 @@ A fully working, retro-style Minesweeper clone with pixel art and UI modeled aft
 - Classic smiley face reset button 😃😵😎
 - Custom-made XP-style pixel art (Paint 3D)
 - Timer and mine counter
-- Sounds and animations
 - Clean retro UI with pixel-perfect visuals
 
 ---
